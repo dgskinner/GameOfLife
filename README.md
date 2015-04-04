@@ -6,3 +6,4 @@ To play, run the following from the terminal:
 
     ruby play.rb
 
+Feel free to visit the link above for inspiration regarding initial conditions.
